@@ -1,0 +1,11 @@
+{
+  "name": "Grandmaster AI",
+  "description": "A production-grade chess platform featuring real-time multiplayer, AI coaching with move analysis, and a dynamic emotion-based theme system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "Real-time Multiplayer",
+    "AI Move Analysis",
+    "Authentication",
+    "Dynamic Theming"
+  ]
+}
